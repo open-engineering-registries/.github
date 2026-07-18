@@ -2,6 +2,8 @@
 
 The authoritative registries of the Open Engineering ecosystem.
 
+![Open Engineering Registries hero-banner.png](../assets/hero-banner.png)
+
 Open Engineering Registries define where engineering knowledge is published, discovered, identified, and resolved. They provide the trusted catalogs that allow engineering assets to be uniquely identified, searched, validated, and reused across organizations, runtimes, and systems.
 
 Rather than storing engineering artifacts themselves, registries maintain the metadata that makes those artifacts discoverable.
